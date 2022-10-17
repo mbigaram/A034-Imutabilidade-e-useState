@@ -5,6 +5,9 @@ export const Card = styled.div`
   border: 1px solid black;
   margin: 16px;
   max-width: 17rem;
+  min-width: 17rem;
+  max-height: 27rem;
+  min-height: 27rem;
   text-align: center;
   border-radius: 10px;
   box-shadow: 10px 10px 30px #bdbdbd;
